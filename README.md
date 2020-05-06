@@ -1,6 +1,6 @@
 # ML_DL_Interview
 
-## Understnding Metrics like - Accuracy, ROC, AUC, Precision, Recall, Sensitivity, Specificty, True Positive Rate, False POsitive Rate
+##a Understnding Metrics like - Accuracy, ROC, AUC, Precision, Recall, Sensitivity, Specificty, True Positive Rate, False Positive Rate
 
 What is Precision and Recall?
 
@@ -22,7 +22,7 @@ which is the better curve for interpreting model performance when you have imbal
 
 What is ACcuracy?
 
-In cae of imbalance dataset , does accuracy serve to be a better metric for model evaluation, if not why?
+In case of imbalance dataset , does accuracy serve to be a better metric for model evaluation, if not why?
 
 Links:
 https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
