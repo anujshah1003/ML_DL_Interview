@@ -1,17 +1,27 @@
 # ML_DL_Interview
 
-## Undesratnding Metrics like - Accuracy, ROC, AUC, Precision, Recall, Sensitivity, Specificty, True Positive Rate, False POsitive Rate
+## Understnding Metrics like - Accuracy, ROC, AUC, Precision, Recall, Sensitivity, Specificty, True Positive Rate, False POsitive Rate
 
-What is Precision and Recall
-What is ROC Curve
-What is AUC Curve
-What is the best value for ROC curve
-What is Precision-Recall Curve
-What is the best value for Precision-Recall Curve
-What is Senitivity and Specificity
-When to use ROC curve and when to use precision-recall curve
-which is the better metrics when you have imbalance dataset and why
-What is ACcuracy
+What is Precision and Recall?
+
+What is ROC Curve?
+
+What is AUC?
+
+What is the best value for ROC curve?
+
+What is Precision-Recall Curve?
+
+What is the best value for Precision-Recall Curve?
+
+What is Senitivity and Specificity?
+
+When to use ROC curve and when to use precision-recall curve?
+
+which is the better metrics when you have imbalance dataset and why?
+
+What is ACcuracy?
+
 In cae of imbalance dataset , does accuracy serve to be a better metric for model evaluation, if not why?
 
 Links:
