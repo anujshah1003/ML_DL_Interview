@@ -18,7 +18,7 @@ What is Senitivity and Specificity?
 
 When to use ROC curve and when to use precision-recall curve?
 
-which is the better metrics when you have imbalance dataset and why?
+which is the better curve for interpreting model performance when you have imbalance dataset ROC or Precision-recall and why?
 
 What is ACcuracy?
 
