@@ -38,21 +38,34 @@ https://towardsdatascience.com/confused-by-the-confusion-matrix-e26d5e1d74eb
 ## Bagging And Boosting
 
 What is Bagging?
+
 What is Boosting?
+
 Difference between bagging and boosting?
+
 What is difference between bagging and random forest?
+
 What are the various parameters to be tuned for Random Forest?
+
 Can random forest be used for classification alone?
+
 What is adaboost?
+
 What is the stopping criterion for adaboost?
+
 What is the disadvanatge of adaboost?
+
 which is more robust when the data is noisy-random forest or adaboost and why?
+
 Explain the workflow of Adaboost , how the data is weighted?
+
 What is a weak learner? - Decision Stump(a tree with one decision node)
 
 What is gardient Boosting?
+
 What is XGB?
 
 https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
 https://towardsdatascience.com/the-ultimate-guide-to-adaboost-random-forests-and-xgboost-7f9327061c4f
+https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
 
