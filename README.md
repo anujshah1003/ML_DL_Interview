@@ -42,9 +42,11 @@ np.std(y) # 3
 np.var(y) # 9
 ```
 3. Given a 10 class classification how many nuerons/nodes you would use in the last layer?
+
 Ans. 16 
 
 4. can you use less number of neurons/nodes in the output?
+
 Ans. Yes , by using some oter representation of the output class instead of decimal [0,1,2,...15]. for e.g binary representation. instead of 16 you can use 4 nodes
 ```
 how to reprsent16 classes with 4 output nodes
