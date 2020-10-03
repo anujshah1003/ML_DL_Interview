@@ -1,5 +1,28 @@
 # ML_DL_Interview
 
+# Questions & Answers
+1. How can you convert a given distribution to distribution of zero mean and unit variance
+
+Ans: Subtract the mean and divide by the standard deviation.
+```eg x = [10,20,30,40,50,60]
+
+mean = np.mean(x) # 35
+std = np.std(x) # 17.07825127659933
+# transform the distribution to zero mean 
+x_new = x - mean # [-25., -15.,  -5.,   5.,  15.,  25.]
+
+# transform it to unit variance
+x_new = x_new/std # [-1.46385011, -0.87831007, -0.29277002,  0.29277002,  0.87831007,1.46385011]
+
+# now your new distribution has zero mean and unit variance
+np.mean(x_new)  # 0
+np.std(x_new)   # 1
+np.var(x_new)   # 1
+```
+
+
+# Resources & Questions
+
 ## Understnding Metrics like - Accuracy, ROC, AUC, Precision, Recall, Sensitivity, Specificty, True Positive Rate, False Positive Rate
 
 What is Precision and Recall?
