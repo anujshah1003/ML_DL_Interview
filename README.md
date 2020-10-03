@@ -4,7 +4,8 @@
 1. How can you convert a given distribution to distribution of zero mean and unit variance
 
 Ans: Subtract the mean and divide by the standard deviation.
-```eg x = [10,20,30,40,50,60]
+```
+eg x = [10,20,30,40,50,60]
 
 mean = np.mean(x) # 35
 std = np.std(x) # 17.07825127659933
