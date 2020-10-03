@@ -22,6 +22,7 @@ np.var(x_new)   # 1
 ```
 
 2. How can you convert a given distribution to distribution of any desired mean and variance
+
 Ans: First convert the given distribution to zero mean and unit variance, then multiply the new distribution with the desired standard deviation(std=square_root(variance)) and add the desired mean. 
 ```
 eg. x = [10,20,30,40,50,60]
