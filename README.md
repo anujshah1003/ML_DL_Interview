@@ -41,7 +41,7 @@ np.mean(y) # 2
 np.std(y) # 3
 np.var(y) # 9
 ```
-3. Given a 10 class classification how many nuerons/nodes you would use in the last layer?
+3. Given a 16 class classification how many nuerons/nodes you would use in the last layer?
 
 Ans. 16 
 
@@ -60,7 +60,11 @@ class 2 : 0010
 class 16 : 1111
 
 ```
+5. Given a multi-class classification problem, what activation function you use at output layer?
+Ans Softmax.
 
+6. If it is a multi-label classifiation problem , then what activation function you will use?
+Ans sigmoid
 
 # Resources & Questions
 
