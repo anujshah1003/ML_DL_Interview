@@ -18,6 +18,10 @@ The Minkowski error solves that by raising each instance error to a number small
 A common value for the Minkowski parameter is 1.5.
 Reference - https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers
 
+# Handling Missing Data
+https://analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/
+https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e
+
 
 # Q & A
 1. How can you convert a given distribution to distribution of zero mean and unit variance
