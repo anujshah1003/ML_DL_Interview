@@ -3,6 +3,22 @@
 2. https://www.kdnuggets.com/2018/08/make-machine-learning-models-robust-outliers.html
 3. https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html
 
+Q.1 which models are more robust to outliers?
+tree-based methods like Random Forests and Gradient Boosting techniques, which are less impacted by outliers as compared to linear models.
+https://www.quora.com/Why-are-tree-based-models-robust-to-outliers
+
+Q.2 which loss functin to use in prsesnce of outliers?
+use MAE (L1 loss) ins tead of MSE (L2 loss). 
+in mse loss the distnace to outlier will square and teh model will be influenced by that dstance instead of learning the actual pattern.
+Another error function that can be tried out is - minkowski error
+
+The Minkowski error is a loss index that is more insensitive to outliers than the standard mean squared error.
+The mean squared error raises each instance error to the square, making a too big contribution of outliers to the total error,
+The Minkowski error solves that by raising each instance error to a number smaller than 2. This number is called the Minkowski parameter, and reduces the contribution of outliers to the total error,
+A common value for the Minkowski parameter is 1.5.
+Reference - https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers
+
+
 # Q & A
 1. How can you convert a given distribution to distribution of zero mean and unit variance
 
