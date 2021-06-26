@@ -1,5 +1,9 @@
 # ML_DL_Interview
 
+Read the blogs below to set yourself up for a good preparartion
+
+## [Emma Ding - The Ultimate Guide to Acing Machine Learning Interviews for Data Scientists and Machine Learning Engineers](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
+
 # Questions & Answers
 1. How can you convert a given distribution to distribution of zero mean and unit variance
 
