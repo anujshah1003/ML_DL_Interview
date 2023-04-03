@@ -105,6 +105,7 @@ https://towardsdatascience.com/the-ultimate-guide-to-adaboost-random-forests-and
 https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
 
 ## Why you get NaNs during training and how to avoid
+Ref: https://cnvrg.io/keras-custom-loss-functions/
 Ref: https://neptune.ai/blog/keras-loss-functions
 ![image](https://user-images.githubusercontent.com/20814689/229438498-eb5b5a05-7357-46ac-8b13-fe5c3ca8ccdb.png)
 
